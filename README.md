@@ -1,1 +1,3 @@
 # NetCoreMvc
+
+Deneme Projesidir
